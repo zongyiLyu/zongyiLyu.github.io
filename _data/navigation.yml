@@ -1,17 +1,22 @@
 # main links links
 main:
-
+ - title: "Hi there 👋"
+    url: "/#-hi-there-👋"
+    
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Competitions"
+  - title: "Academic Competitions"
     url: "/#-academic-competitions"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
+
+  - title: "Contact"
+    url: "/#-contact" 
