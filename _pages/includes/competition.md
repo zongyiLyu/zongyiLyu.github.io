@@ -7,7 +7,7 @@
 
 [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022)  \\
 Gold medal | 8/642 \\
-[[Code]](https://github.com/sisuolv/CVPR--Image-Matching-Challenge-2022--Gold-Medal)
+[Code](https://github.com/sisuolv/CVPR--Image-Matching-Challenge-2022--Gold-Medal)
 
 - This work is fused matching results from four models (LoFTR, SuperGlue, DKM, and QuadTreeAttention), and employed Thread PoolExecutor for efficient, multi-threaded inference on key points and F-matrix calculation within the competition’s time constraints.
 </div>
