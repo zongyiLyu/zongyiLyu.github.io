@@ -1,8 +1,5 @@
 # main links links
 main:
- - title: "Hi there 👋"
-    url: "/#-hi-there-👋"
-    
   - title: "News"
     url: "/#-news"
 
