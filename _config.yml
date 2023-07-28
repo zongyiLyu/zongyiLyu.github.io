@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
+  googlescholar    : # "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
   email            : "sisuolv@stu.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
