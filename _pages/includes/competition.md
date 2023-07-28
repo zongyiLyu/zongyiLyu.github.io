@@ -2,7 +2,7 @@
 # 🆚 Academic Competitions
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Workshop</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Workshop</div><img src='/images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022)  \\
@@ -14,7 +14,7 @@ Gold medal | 8/642 \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Workshop</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Workshop</div><img src='/images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sorghum -100 Cultivar Identification - FGVC 9](https://www.kaggle.com/competitions/sorghum-id-fgvc-9) \\
@@ -26,7 +26,7 @@ Rankings: 3/252 \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF BDCI 2021</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF BDCI 2021</div><img src='/images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [System Certification Risk Prediction](https://www.datafountain.cn/competitions/537) \\
