@@ -43,7 +43,7 @@
 - ``NeurIPS 2022 Challenge`` **Honorable Mention Award (7*th* place)**, [*Weakly Supervised Cell Segmentation in Multi-modality High-Resolution Microscopy Images,2022*](https://neurips22-cellseg.grand-challenge.org/) [[Code]](https://github.com/sisuolv/Weakly-Supervised-Cell-Segmentation-in-Multi-modality-High-Resolution-Microscopy-Images--7th)
 - ``Kaggle 2022`` **Silver Medal**, [*Feedback Prize - Evaluating Student Writing*](https://www.kaggle.com/competitions/feedback-prize-2021)
 - ``CCF BDCI 2021`` **National Third Prize (5*th* place)**, [*Script Character Emotion Recognition*](https://www.datafountain.cn/competitions/518), 
-[Code](https://github.com/sisuolv/2021--CCF-Big-Data-Computing-Intelligence-Contest--Script-character-emotion-recognition--5th)
+[[Code]](https://github.com/sisuolv/2021--CCF-Big-Data-Computing-Intelligence-Contest--Script-character-emotion-recognition--5th)
 - `Kaggle 2021` **Silver Medal**, [*Bristol-Myers Squibb-Molecular Translation,2021*](https://www.kaggle.com/competitions/bms-molecular-translation)
 - `APMCM 2021` **First Prize**, [*The 11*th* *APMCM Asia-Pacific Student Mathematical Modeling Competition*](http://www.apmcm.org/) [[Code&Paper]](https://github.com/sisuolv/2021--APMCM--First-Prize)
 - `CMC 2021` **Third Prize**, [*The Chinese Mathematics Competitions,* 2021](http://www.cmathc.cn)
