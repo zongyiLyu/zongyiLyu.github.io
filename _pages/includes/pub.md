@@ -1,4 +1,4 @@
 
 # 📝 Publications 
 
-- ``IEEE GRSL`` Hyperspectral Anomaly Detection by Multimodal Low-Rank Tensor Representation, Zhibin Huang\*, Sisuo Lyu\*, and Yongyong Chen (under review)
+- ``IEEE GRSL 2023`` *Hyperspectral Anomaly Detection by Multimodal Low-Rank Tensor Representation*(under review), Zhibin Huang\*, Sisuo Lyu\*, and Yongyong Chen(*equal contribution)
