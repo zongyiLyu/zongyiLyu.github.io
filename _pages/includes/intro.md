@@ -5,4 +5,4 @@ My research interest includes **data mining, recommendation system, computer vis
 
 I have been involved in several research experiences, including next-poi recommendation in data mining, advised by [Shanshan Feng(冯山山)](https://scholar.google.com.sg/citations?user=yX-lswoAAAAJ&hl=en); hyperspectral anomaly detection in computer version, advised by [Yongyong Chen(陈勇勇)](http://faculty.hitsz.edu.cn/chenyongyong) and knowledge distillation in model compression, advised by [Miao Zhang(张淼)](http://faculty.hitsz.edu.cn/zhangmiao).
 
-If you are seeking any form of **academic cooperation**, please feel free to email me at [sisuolv@stu.hit.edu.cn].
+If you are seeking any form of **academic cooperation**, please feel free to email me at sisuolv@stu.hit.edu.cn.
