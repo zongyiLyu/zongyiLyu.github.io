@@ -1,5 +1,5 @@
 
-I am currently a fourth-year undergraduate student at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html) in **Computer Science and Technology**.
+I am currently a fourth-year undergraduate student at [Harbin Institute of Technology, Shenzhen(哈尔滨工业大学（深圳）)](https://www.hitsz.edu.cn/index.html) in **Computer Science and Technology**.
 
 My research interest includes **data mining, recommendation system, computer vision, and knowledge distillation(Graduation Project)**.
 
