@@ -15,7 +15,7 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/research experience.md %}
+{% include_relative includes/research.md %}
 
 {% include_relative includes/competition.md %}
 
