@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  kaggle           :"sisuolv"
 
 
 # Site Settings
@@ -114,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           :https://www.kaggle.com/sisuolv 
+  kaggle           :"sisuolv"
 
 
 # Reading Files
@@ -199,7 +200,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           :  
+  kaggle           :"sisuolv"
 
 
 # Reading Files
