@@ -46,7 +46,7 @@
   &ensp; [[Code]](https://github.com/sisuolv/2021--CCF-Big-Data-Computing-Intelligence-Contest--Script-character-emotion-recognition--5th)
 - `Kaggle 2021` **Silver Medal**, [*Bristol-Myers Squibb-Molecular Translation*](https://www.kaggle.com/competitions/bms-molecular-translation)
 - `APMCM 2021` **First Prize**, [*The 11th APMCM Asia-Pacific Student Mathematical Modeling Competition*](http://www.apmcm.org/)   &ensp; [[Code&Paper]](https://github.com/sisuolv/2021--APMCM--First-Prize)
-- `CMC 2021` **Third Prize**, [*The Chinese Mathematics Competitions,* 2021](http://www.cmathc.cn)
+- `CMC 2021` **Third Prize**, [*The Chinese Mathematics Competitions*](http://www.cmathc.cn)
 
 
 
