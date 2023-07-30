@@ -7,7 +7,7 @@
 
 - Introduced a novel method for Hyperspectral Anomaly Detection using Multimodal Low-Rank Tensor Representation (MLTR), and improved the accuracy and generalization capabilities of HAD by employing a low-rank representation of multi-modal tensors.
 - Outperformed previous methods on ten datasets and achieved a higher AUC, including the SanDiego dataset. Reduced the running time by approximately 20% compared to TLRSR.
-- The paper is submitted to IEEE Geoscience and Remote Sensing Letters[^1].
+- The paper is submitted to IEEE Geoscience and Remote Sensing Letters.
 
 ### *Next-POI Recommendation*
 **2022.09 - 2023.04**
