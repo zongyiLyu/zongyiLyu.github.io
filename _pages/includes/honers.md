@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2023.04* Excellent League Member Honor, Harbin Institute of Technology 2023.04
+- *2023.04* Excellent League Member Honor, Harbin Institute of Technology 
 
 - *2023.03* [Science and Innovation Star Scholarship](http://cs.hitsz.edu.cn/info/1019/6511.htm), Sailvan Times 
 
