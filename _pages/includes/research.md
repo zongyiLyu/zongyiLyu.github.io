@@ -1,6 +1,6 @@
 # 💻 Research Experience
 ### *SPENCER: Self-Adaptive Model Distillation for Efficient Code Retrieval*
-**2022.08 - present**
+**2023.2 - 2023.8**
 
 **Supervisor: Prof. [Cuiyun Gao(高翠芸)](https://cuiyungao.github.io/)**
 
