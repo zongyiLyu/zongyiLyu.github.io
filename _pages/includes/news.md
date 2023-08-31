@@ -1,4 +1,4 @@
 # 🔥 News
-- *2023.07*: I join the HK PhD Fellowship Summer Workshop 2023 Faculty of Engineering, The Chinese University of Hong Kong.
-- *2023.06*: We have completed the paper on hyperspectral detection and submitted it to IEEE Geoscience and Remote Sensing Letters.
-- *2022.06*: 🎉 I have become the Kaggle Competitions Master.
+- *2023.08*: 🎉 Our paper is submitted to TSE 2023!
+- *2022.12*: 🎉 I won the National Scholarship of 2022 (Top 1%)!
+- *2022.08*: I began my research in the STAR Lab
