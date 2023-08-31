@@ -5,4 +5,6 @@ My research interest includes **artificial intelligence for software engineering
 
 I am very fortunate to be advised by [Prof. Cuiyun Gao(高翠芸)](https://cuiyungao.github.io/) of Software Analysitics and Reliability Lab from HITSZ.
 
-I am now actively pursuing admission to a **Ph.D. degree**. If you are seeking any form of **academic cooperation**, please feel free to email me at lvzongyi2002@gmail.com.
+I am now actively pursuing admission to a **Ph.D. degree**. You can find my CV here: [Zongyi Lyu's Curriculum Vitae](../assets/CV.pdf). If you are seeking any form of **academic cooperation**, please feel free to email me at lvzongyi2002@gmail.com.
+
+
