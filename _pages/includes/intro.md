@@ -1,8 +1,8 @@
 
 I am currently a fourth-year undergraduate student at [Harbin Institute of Technology, Shenzhen(哈尔滨工业大学（深圳）)](https://www.hitsz.edu.cn/index.html) in **Computer Science and Technology**.
 
-My research interest includes **data mining, recommendation system, computer vision, and knowledge distillation(Graduation Project)**.
+My research interest includes **artificial intelligence for software engineering(AI for SE), data mining, natural language processing(NLP) and model compression**.
 
-I have been involved in several research experiences, including next-poi recommendation in data mining, advised by [Shanshan Feng(冯山山)](https://scholar.google.com.sg/citations?user=yX-lswoAAAAJ&hl=en); hyperspectral anomaly detection in computer version, advised by [Yongyong Chen(陈勇勇)](http://faculty.hitsz.edu.cn/chenyongyong) and knowledge distillation in model compression, advised by [Miao Zhang(张淼)](http://faculty.hitsz.edu.cn/zhangmiao).
+I am very fortunate to be advised by [Prof. Cuiyun Gao](https://cuiyungao.github.io/) of Software Analysitics and Reliability Lab from HITSZ.
 
-If you are seeking any form of **academic cooperation**, please feel free to email me at sisuolv@stu.hit.edu.cn.
+I am now actively pursuing admission to a **Ph.D. degree**. If you are seeking any form of **academic cooperation**, please feel free to email me at lvzongyi2002@gmail.com.
