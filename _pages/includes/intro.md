@@ -5,6 +5,5 @@ My research interest includes **artificial intelligence for software engineering
 
 I am very fortunate to be advised by [Prof. Cuiyun Gao(高翠芸)](https://cuiyungao.github.io/) of Software Analysitics and Reliability Lab from HITSZ.
 
-I am now actively pursuing admission to a **Ph.D. degree**. You can find my CV here: [Zongyi Lyu's Curriculum Vitae](../docs/CV.pdf). If you are seeking any form of **academic cooperation**, please feel free to email me at lvzongyi2002@gmail.com.
-
+I would join HKUST as an full-time Ph.D. student in 2024 Fall, supervised by [Prof. Shing-Chi Cheung(張成志)](https://cse.hkust.edu.hk/~scc/) and [Prof. Shuai Wang(王帅)](https://cse.hkust.edu.hk/~shuaiw/). Cheers!
 
