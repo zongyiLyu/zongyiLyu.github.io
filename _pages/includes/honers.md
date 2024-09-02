@@ -1,4 +1,7 @@
 # 🎖 Honors and Awards
+- *2024.09* Research Postgraduate Scholarship, The Hong Kong University of Science and Technology
+
+- *2024.07* Outstanding graduate student, Harbin Institute of Technology 
 
 - *2022.12* National Scholarship, Ministry of Education 
 
