@@ -1,4 +1,4 @@
 # 📎 Homepages
-- Personal Pages: https://Zongyi-Lyu.github.io/
-- GitHub: https://github.com/Zongyi-Lyu
-- CV: https://Zongyi-Lyu.github.io/docs/CV.pdf
+- Personal Pages: https://zongyiLyu.github.io/
+- GitHub: https://github.com/zongyiLyu
+- CV: https://zongyiLyu.github.io/docs/CV.pdf
