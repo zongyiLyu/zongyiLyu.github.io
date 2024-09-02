@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zongyi LYU (吕宗驿)"
-description              : "Undergraduate student in Computer Science and Technology."
-repository               : "Zongyi-Lyu/Zongyi-Lyu.github.io"
+description              : "Ph.D. in Computer Science and Engineering"
+repository               : "zongyiLyu/zongyiLyu.github.io"
 google_scholar_stats_use_cdn : true
 
 
@@ -26,8 +26,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Zongyi LYU (吕宗驿)"
   avatar           : "images/01.jpg"
-  bio              : "Harbin Institute of Technology, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "The Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zongyi-Lyu"
+  github           : "zongyiLyu"
   google_plus      :
   keybase          :
   instagram        :
