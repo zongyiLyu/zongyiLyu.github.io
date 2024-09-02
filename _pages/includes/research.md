@@ -1,4 +1,4 @@
-# 💻 Research Experience
+# 💻Project Experience
 ### *SPENCER: Self-Adaptive Model Distillation for Efficient Code Retrieval*
 **2023.2 - 2023.8**
 
