@@ -1,5 +1,5 @@
 # 📮 Contact
-- 📧  Email: [lvzongyi2002@gmail.com] or [200110118@stu.hit.edu.cn]  
+- 📧  Email: [lvzongyi2002@gmail.com] or [zlyuaj@connect.ust.hk]  
 - 💬  Wechat: L18123682680  
-- 📍   Address: Harbin Institute of Technology, Shenzhen, Nanshan, Shenzhen, China 518055
+- 📍  Address: room 3663, The Hong Kong University of Technology, Clear Water Bay, Hong Kong, China
 
